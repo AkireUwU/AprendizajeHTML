@@ -1,0 +1,160 @@
+*{
+    background-color: #F8F7FD;
+    margin-bottom: 30%;
+}
+.astroDog{
+    height: 110%;
+    position: absolute;
+    top: 70%;
+    left: 60%;
+    transform: translate(-15%, -70%);  
+    background-color: transparent;
+}
+
+.titulo{
+    position: absolute;
+    font-family: Oswald SemiBold;
+    font-size: 185px;
+    left: 5%;
+    top:-21%;
+    color: #000072;
+    background-color: transparent;
+}
+.subtitle{
+    position: absolute;
+    font-family: Oswald SemiBold;
+    font-size: 100px;
+    left: 5%;
+    top:21%;
+    color: #000000;
+    background-color: transparent;
+}
+.circle{
+    background: #FF899E;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: 42%;
+    top: 9%;
+}
+.circle1{
+    background: #C5D1FF;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 5%;
+    top: 10%;
+}
+
+.circle2{
+    background: #C5D1FF;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 49%;
+    left: 50%;
+}
+
+.circle3{
+    background: #FF899E;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 86%;
+    left: 93%;
+}
+
+.circle4{
+    background: #A7F1FF;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 86%;
+    right: 43%;
+}
+.check{
+    height: 35px;
+    position: absolute; 
+    z-index: 100px;
+    left: 6.5%;
+    top:67%;
+    background-color: transparent;
+}
+.check1{
+    height: 35px;
+    position: absolute; 
+    z-index: 100px;
+    left: 6.5%;
+    top:82%;
+    background-color: transparent;
+}
+
+.circleblue{
+    background: #000072;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top:65%;
+    left: 69px;
+    z-index: -100;
+}
+
+.circleblue1{
+    background: #000072;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top:80%;
+    left: 69px;
+    z-index: -100;
+}
+
+.text{
+    font-family: Source Sans Pro;
+    font-size: 20px;
+    position: absolute;
+    top: 64%;
+    left: 12%;
+    background-color: transparent;
+}
+
+.text1{
+    font-family: Source Sans Pro;
+    font-size: 20px;
+    position: absolute;
+    top: 79.55%;
+    left: 12%;
+    background-color: transparent;
+}
+
+a:link,a:visited{
+    width: 250px; 
+    height: 100px; 
+    background: #ffab45;
+    border-radius: 20px;
+    position: absolute;
+    top: 100%;
+    left: 12%;
+    
+    font-size: 150%;
+    font-family: Source Sans Pro Black;
+    color: white;
+    text-align: center;
+    line-height: 93px;   
+    text-decoration: none;
+}
+
+a:hover{
+    background: #ff8c00;
+}
+
+
+
+
